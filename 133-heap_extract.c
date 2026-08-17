@@ -19,8 +19,8 @@ size_t tree_size_h(const binary_tree_t *tree)
  */
 heap_t *get_last_node(heap_t *root)
 {
-	int nodes = tree_size_h(root);
-	int bit;
+	size_t nodes = tree_size_h(root);
+	size_t bit;
 	heap_t *last = root;
 
 	for (bit = 1; bit <= nodes; bit <<= 1)
