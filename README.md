@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # C - Binary Trees
 
 This project is a comprehensive implementation and exploration of **Binary Trees** data structures in the C programming language as part of the Holberton School curriculum.
@@ -23,3 +24,6 @@ This project is a comprehensive implementation and exploration of **Binary Trees
 ## Authors
 * **Noura Nasser Alotaibi**
 * **Mohammed AbdulAziz AlBadyea**
+=======
+# 0x1D. C - Binary trees
+>>>>>>> 374737c (Tasks 0 to 8: Binary Trees)
